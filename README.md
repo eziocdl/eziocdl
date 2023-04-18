@@ -1,4 +1,6 @@
 ### " It's a  me, Ezio! "
+### Digital Strategies and E-commerce Analyst and Full Stack Developer. 
+  
 
 
 <div align="center">
