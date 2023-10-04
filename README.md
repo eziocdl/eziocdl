@@ -16,7 +16,7 @@
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
      <img align="center" alt="Ezio-react" height="30" width="40"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src= "https://i0.wp.com/gamehall.com.br/wp-content/uploads/2021/02/nintendo-switch-online-mario-luigi.jpg?ssl=1">
+    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src= "https://www.imagenspng.com.br/wp-content/uploads/2015/02/super-mario-mario-11.png">
 </div>
   
   ##
