@@ -10,12 +10,12 @@
 </div>
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="Ezio-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Ezio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ezio-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ezio-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg">
   <img align="center" alt="Ezio-nodeJs" height="30" width="40"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
      <img align="center" alt="Ezio-angular" height="30" width="40"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg">
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
     <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src= "https://www.imagenspng.com.br/wp-content/uploads/2015/02/super-mario-mario-11.png">
 </div>
   
