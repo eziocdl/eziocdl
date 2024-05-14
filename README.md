@@ -1,4 +1,4 @@
-### " It's a  me, Ezio! "
+### "Hello, my name is Ezio and welcome to my GitHub"
 ### Digital Strategies and E-commerce Analyst and Backend Developer. 
   
 
