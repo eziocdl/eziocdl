@@ -1,5 +1,5 @@
 ### Hello, my name is Ezio and welcome to my GitHub
-### Digital Strategies and E-commerce Analyst and Backend Developer.
+### Backend Developer.
 
 <div align="center">
   <a href="https://github.com/eziocdl">
@@ -40,34 +40,4 @@ I believe collaboration is key to the success of any project and strive to build
 - **Spring Framework**: Proficient in Spring Boot, Spring MVC, Spring Data, and Spring Security for developing scalable web applications.
 - **SQL**: Strong knowledge of relational databases and proficiency in MySQL, with experience in designing and optimizing database schemas.
 
-### My Projects
 
-Here are some of my key projects that showcase my skills and expertise:
-
-- [E-commerce Platform](https://github.com/eziocdl/ecommerce-platform)
-  <br>
-  <a href="https://github.com/eziocdl/ecommerce-platform" target="_blank"><img src="https://img.shields.io/badge/-Access_Project-1E90FF?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=eziocdl&repo=ecommerce-platform&theme=dark" />
-
-- [Inventory Management System](https://github.com/eziocdl/inventory-management)
-  <br>
-  <a href="https://github.com/eziocdl/inventory-management" target="_blank"><img src="https://img.shields.io/badge/-Access_Project-1E90FF?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=eziocdl&repo=inventory-management&theme=dark" />
-
-- [Customer Relationship Management (CRM) System](https://github.com/eziocdl/crm-system)
-  <br>
-  <a href="https://github.com/eziocdl/crm-system" target="_blank"><img src="https://img.shields.io/badge/-Access_Project-1E90FF?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=eziocdl&repo=crm-system&theme=dark" />
-
-You can find more of my projects on [my GitHub profile](https://github.com/eziocdl).
-
----
-
-### Get in Touch
-
-Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/ezio-lima/) or [email](mailto:eziocdl@gmail.com) if you have any questions or opportunities to collaborate.
-
-Thank you for visiting my GitHub profile!
