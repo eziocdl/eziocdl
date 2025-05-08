@@ -1,4 +1,5 @@
-# 👋 Ezio Cintra De Lima | Backend Developer 🌎 
+
+# 👋 Olá, sou Ezio Cintra De Lima — Backend Developer (Java/Spring Boot)
 
   <a href="https://instagram.com/ezio_cintra" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
@@ -12,26 +13,28 @@
 <div>
 
 
-# 🌎 Desenvolvedor Backend Java | Spring Boot | Microsserviços  
+Desenvolvedor back-end com foco em soluções escaláveis em Java, Spring Boot e microsserviços.  
+Possuo experiência prática em sustentação técnica de e-commerce, integração de APIs e automações — sempre aplicando padrões de projeto e boas práticas de arquitetura.
 
-Profissional experiente em **e-commerce e otimização de processos**, com foco no desenvolvimento backend utilizando **Java e Spring Boot**. Busco criar **soluções eficientes**, aplicando **padrões de projeto** (_MVC, DDD, Microsserviços, Singleton, Command, Observer_) e princípios como **Clean Code, SOLID e Clean Architecture**.  
+## 🚀 Stack Principal
+- **Java**: Desenvolvimento back-end robusto e orientado a objetos  
+- **Spring Boot**: Criação de APIs REST, microsserviços e autenticação JWT  
+- **Bancos de Dados**: PostgreSQL, MySQL, JPA/Hibernate  
+- **APIs & Testes**: Swagger, Postman, JUnit  
+- **Versionamento & Build**: Git, GitHub, Maven, Gradle  
 
-## 🚀 Tecnologias Principais  
+## 🧠 Habilidades Técnicas
+- Arquitetura: MVC • DDD • Microsserviços  
+- Padrões: Singleton • Command • Observer  
+- Princípios: Clean Code • SOLID • Clean Architecture  
+- Segurança: JWT • Autenticação via token  
+- Soft Skills: Colaboração • Resolução de problemas • Aprendizado contínuo
 
-✅ **Java:** Desenvolvimento backend robusto e escalável.  
-✅ **Spring Boot:** Criação de aplicações web e microsserviços.  
-✅ **Bancos de Dados SQL:** MySQL, PostgreSQL (JPA/Hibernate).  
-✅ **APIs:** RESTful, JWT, Swagger, Postman.  
-✅ **Build:** Maven, Gradle.  
-✅ **Versionamento:** Git/GitHub.  
+## 📌 Sobre mim
+Atuo com tecnologia aplicada a negócios, sustentando e evoluindo sistemas críticos de e-commerce.  
+Estou sempre em busca de novos desafios que unam código limpo, arquitetura bem pensada e impacto real na experiência do usuário.
 
-## 🛠 Habilidades  
-
-🔹 **Arquitetura:** MVC, DDD, Microsserviços.  
-🔹 **Padrões de Projeto:** Singleton, Command, Observer.  
-🔹 **Princípios:** SOLID, Clean Code, Clean Architecture.  
-🔹 **Segurança:** JWT, Autenticação.  
-🔹 **Soft Skills:** Trabalho em equipe, adaptabilidade, aprendizado contínuo, resolução de problemas.  
+🔗 Confira meus projetos no repositório ou me chame para trocar ideias sobre Java, APIs ou arquitetura!
 
 📌 **Comprometido com aprendizado contínuo e desenvolvimento de soluções eficientes.**  
 
